@@ -1,13 +1,13 @@
 {
-     "manifest_version": 3,
+    "manifest_version": 3,
     "name": "Dictionary",
-    "version": "1.0.1",
-    "action":{
-    "default_popup": "index.html",
-    "default_icon": "icon.png"
-    },
-    "icons":{
+    "description":"A chrome extension that enables users to get the meaning, pronunciation, examples, and synonyms of any English word.",
+    "version": "1.0",
+     "icons":{
         "128": "icon.png"
+    },
+    "action":{
+    "default_popup": "index.html"
     },
     "permission": ["activeTab"]
 }
