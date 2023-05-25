@@ -9,5 +9,5 @@
     "action":{
     "default_popup": "index.html"
     },
-    "permission": ["activeTab"]
+    "permissions": ["activeTab"]
 }
